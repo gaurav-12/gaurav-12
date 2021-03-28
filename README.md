@@ -8,9 +8,9 @@
 In 4️⃣th year of my Bachelor of Technology (💻 Computer Science and Engineering).
 
 ## Some 🗝 Points
-- 🔭 I’m currently working on Mobile Application Development with, React Native and Flutter.
+- 🔭 I’m currently working on Ruby on Rails.
 - 👯 I’m looking to collaborate on any ✨Project from which I can learn.
-- 🤔 I’m looking for help with 2️⃣0️⃣2️⃣0️⃣.
+- 🤔 I’m looking for help with 📦⛓️.
 - 💬 Ask me about 🤷‍♂️anything (will try Googling it). <br/>
   - 😑 Okay, to be specific, Mobile, Web development, Front and Back End, or anything related to Designing(Software, Approach).
 - 😄 Pronouns: He/Him/His
